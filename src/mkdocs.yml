@@ -1,0 +1,75 @@
+site_name: Harrison's Guide to Lifeguarding
+site_url: https://lifeguard.goeldner.ca
+repo_url: https://github.com/harrisongoeldner/lifeguarding-guide
+repo_name: harrisongoeldner/lifeguarding-guide
+extra_css:
+  - stylesheets/extra.css
+  
+extra:
+  homepage: https://lifeguard.goeldner.ca
+
+theme: 
+  name: material
+  language: en
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.png
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tracking
+    - navigation.path
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tabs.link
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to system preference
+      primary: black
+
+copyright: >
+  Copyright &copy; 2024 Harrison Goeldner –
+  <a href="#__consent">Change cookie settings</a>
+
+markdown_extensions:
+  - toc: 
+      permalink: true
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - privacy
+  - search
+  - blog
+  - social
