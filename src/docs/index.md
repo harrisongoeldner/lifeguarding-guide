@@ -1,17 +1,45 @@
-# Welcome to MkDocs
+---
+hide:
+  - navigation
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Home
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+A collection of guides for lifeguarding and teaching swimming.
 
-## Project layout
+<div class="grid cards" markdown>
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- **Dive into :fontawesome-brands-docker:{ .docker .lg .middle } [Servers](/server/)**
+
+    ---
+
+    The quickest way to get started, and to get your head around the basics.
+
+- **Kick it with :fontawesome-brands-apple:{ .kubernetes .lg .middle } [macOS](/macos/)**
+
+    ---
+
+    Been around for a while? Got a high pain threshold? Jump in!
+
+- **Geek out in :fontawesome-brands-discord:{ .discord .lg .middle } [Discord]()**
+
+    ---
+
+    Join the fun, chat with fellow apples in realtime!
+
+- **Take a look at my :fontawesome-solid-rss: [Blog](/blog/)!**
+
+    ---
+
+    Life's too short. Read the blog. 
+
+</div>
+
+## What this guide hopes to achieve? 
+
+I'd like to think of this as a documentation of my journey. Hopefully you learn along the way. 
+
+## Disclaimer
+
+I am not associated with Apple™ in any way or form. My username just contains the word apple. 
