@@ -1,13 +1,30 @@
 site_name: Harrison's Guide to Lifeguarding
+site_author: Harrison Goeldner
 site_url: https://lifeguard.guide
+
+# Repository
 repo_url: https://github.com/harrisongoeldner/lifeguarding-guide
-repo_name: harrisongoeldner/lifeguarding-guide
+repo_name: lifeguarding-guide
+
+# CSS overrides
 extra_css:
   - stylesheets/extra.css
-  
+
+# Custom variables
 extra:
   homepage: https://lifeguard.guide
 
+# Navigation
+nav:
+  - Home: index.md
+  - Lifeguarding:
+    - lifeguarding/index.md
+    - Survey's at a Glance: lifeguarding/at-a-glance.md
+    - Primary Survey: lifeguarding/primary-survey.md
+    - Seconary Survey: lifeguarding/secondary-survey.md
+    - Oxygen Administration: lifeguarding/oxygen-administration.md
+
+# Theme
 theme: 
   name: material
   language: en
@@ -51,11 +68,12 @@ theme:
         icon: material/brightness-4
         name: Switch to dark mode
       
-
-copyright: >
+# Copyright
+copyright:
   Copyright &copy; 2024 Harrison Goeldner –
   <a href="#__consent">Change cookie settings</a>
 
+#Extensions
 markdown_extensions:
   - toc: 
       permalink: true
