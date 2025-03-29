@@ -23,6 +23,8 @@ nav:
     - Primary Survey: lifeguarding/primary-survey.md
     - Seconary Survey: lifeguarding/secondary-survey.md
     - Oxygen Administration: lifeguarding/oxygen-administration.md
+  - Teaching Swimming:
+    - teaching-swimming/index.md
 
 # Theme
 theme: 

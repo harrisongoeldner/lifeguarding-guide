@@ -16,7 +16,7 @@ A collection of guides for lifeguarding and teaching swimming.
 
     The quickest way to get started, and to get your head around the basics.
 
-- **Kick it with :fontawesome-brands-apple:{ .kubernetes .lg .middle } [macOS](/macos/)**
+- **Kick it with :man_swimming:{ .kubernetes .lg .middle } [Teaching Swimming](/teaching-swimming/)**
 
     ---
 
@@ -26,9 +26,9 @@ A collection of guides for lifeguarding and teaching swimming.
 
     ---
 
-    Join the fun, chat with fellow apples in realtime!
+    Join the fun, chat with fellow lifeguards in realtime!
 
-- **Take a look at my :fontawesome-solid-rss: [Blog](/blog/)!**
+- **Take a look at the :fontawesome-solid-rss: [Blog](/blog/)!**
 
     ---
 
