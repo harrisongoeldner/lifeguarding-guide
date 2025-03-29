@@ -42,4 +42,4 @@ I'd like to think of this as a documentation of my journey. Hopefully you learn 
 
 ## Disclaimer
 
-I am not associated with Apple™ in any way or form. My username just contains the word apple. 
+The information in this guide is user contributed. Always refer to your local lifeguarding body's guidelines. 
