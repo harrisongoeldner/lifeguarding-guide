@@ -1,7 +1,3 @@
-:root {
-    --md-primary-fg-color: #14151a;
-}
-
 .md-typeset ul li {
     margin-bottom: 0em;
     /* or 0 if you want it tighter */
