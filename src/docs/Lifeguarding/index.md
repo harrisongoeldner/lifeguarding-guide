@@ -1,3 +1,10 @@
+---
+hide:
+  - navigation
+---
+
+# Lifeguarding
+
 Priority action approach 
 
 ## Primary Survey
@@ -9,10 +16,11 @@ PPE
 
 LOC
 
-- Alert?
-- Verbal? 
-- Pain?
-- Unconscious?
+  - Alert?
+  - Verbal?
+  - Pain?
+  - Unconscious?
+
 
 **A**irway  
 **B**reathing  

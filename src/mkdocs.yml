@@ -1,12 +1,12 @@
 site_name: Harrison's Guide to Lifeguarding
-site_url: https://lifeguard.goeldner.ca
+site_url: https://lifeguard.guide
 repo_url: https://github.com/harrisongoeldner/lifeguarding-guide
 repo_name: harrisongoeldner/lifeguarding-guide
 extra_css:
   - stylesheets/extra.css
   
 extra:
-  homepage: https://lifeguard.goeldner.ca
+  homepage: https://lifeguard.guide
 
 theme: 
   name: material
