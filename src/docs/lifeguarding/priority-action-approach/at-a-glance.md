@@ -1,13 +1,15 @@
-# Survey's at a Glance
+# At a Glance
 
 **Remember**: Priority action approach 
 
-## Primary Survey
+## Scene Survey
 
 Hazards  
 History/bystanders -> D-spine  
 
 PPE
+
+## Primary Survey
 
 LOC  
 – Alert?  

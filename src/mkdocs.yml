@@ -19,9 +19,11 @@ nav:
   - Home: index.md
   - Lifeguarding:
     - lifeguarding/index.md
-    - Survey's at a Glance: lifeguarding/at-a-glance.md
-    - Primary Survey: lifeguarding/primary-survey.md
-    - Seconary Survey: lifeguarding/secondary-survey.md
+    - Priority Action Approach:
+      - At a Glance: lifeguarding/priority-action-approach/at-a-glance.md
+      - Scene Survey: lifeguarding/priority-action-approach/scene-survey.md
+      - Primary Survey: lifeguarding/priority-action-approach/primary-survey.md
+      - Seconary Survey: lifeguarding/priority-action-approach/secondary-survey.md
     - Oxygen Administration: lifeguarding/oxygen-administration.md
   - Teaching Swimming:
     - teaching-swimming/index.md
@@ -34,6 +36,7 @@ theme:
   favicon: assets/images/favicon.png
   features:
     - navigation.instant
+    - navigation.expand
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.tabs
