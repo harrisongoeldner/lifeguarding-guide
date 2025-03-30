@@ -18,7 +18,7 @@ extra:
 nav:
   - Home: index.md
   - Lifeguarding:
-    - Introduction: lifeguarding/index.md
+    - docs/lifeguarding/index.md
     - Priority Action Approach:
       - At a Glance: lifeguarding/priority-action-approach/at-a-glance.md
       - Scene Survey: lifeguarding/priority-action-approach/scene-survey.md
