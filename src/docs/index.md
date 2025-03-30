@@ -10,7 +10,7 @@ A collection of guides for lifeguarding and teaching swimming.
 
 <div class="grid cards" markdown>
 
-- **Dive into :ring_buoy:{ .docker .lg .middle } [Lifeguarding](/Lifeguarding/)**
+- **Dive into :ring_buoy:{ .docker .lg .middle } [Lifeguarding](/lifeguarding/)**
 
     ---
 
