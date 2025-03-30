@@ -6,7 +6,15 @@ In recent years the lifesaving society has been moving away from a strictly rule
 
 The most important thing to remember is that you are not alone. When starting your first job, you will be supported. You don't need to know all the answers. Overtime you will develop a gut intuition regarding what you should do.
 
-## 
+## Prevention
+
+The core tenent of lifeguarding is *prevention*. Your primary goal is to prevent most incidents from happening. This comes in the form of enforcing pool rules and also reconizing situations that could lead to an incident. Most experienced lifeguards can prevent most near drownings by regonizing weak swimmers and directing them accordingly. 
+
+## Scanning
+
+This is the majority of what you will be doing as a lifeguard. You are an *active* observer of the pool (remember prevention!). The lifesaving society establishes the 30 second rule. Your entire zone must be scanned within 30 seconds. This includes blind spots. Essentially if someone starts to drown or a medical emergency occurs it is your job to ensure it is spotted within 30 seconds. 
+
+This is typically achieved by a scanning and roaming pattern. Some pools establish a fixed roaming pattern. Others leave it up to the discretion of the guard. There are three scanning patterns, star burst, zig zag, and arc. 
 
 ## Scene, Primary, and Secondary Survey
 
