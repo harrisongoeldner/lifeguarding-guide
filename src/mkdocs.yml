@@ -17,7 +17,7 @@ extra:
 # Navigation
 nav:
   - Home: index.md
-  - Lifeguarding:
+  - 🛟 Lifeguarding:
     - lifeguarding/index.md
     - Priority Action Approach:
       - At a Glance: lifeguarding/priority-action-approach/at-a-glance.md
@@ -26,8 +26,14 @@ nav:
       - Seconary Survey: lifeguarding/priority-action-approach/secondary-survey.md
       - Critical Inteventions: lifeguarding/priority-action-approach/critical-interventions.md
     - Oxygen Administration: lifeguarding/oxygen-administration.md
-  - Teaching Swimming:
+  - 🌊 Teaching Swimming:
     - teaching-swimming/index.md
+  - 📫 Github Discussions: https://github.com/harrisongoeldner/lifeguarding-guide/discussions
+  - 📅 Blog:
+    - Blog: blog/index.md
+    - Tags: blog/tags.md
+  - 🗂️ Contribute: contribute/index.md
+    
 
 # Theme
 theme: 
