@@ -1,11 +1,11 @@
 # At a Glance
 
-**Remember**: Priority action approach 
+‼️ **Remember** ➡ Priority action approach 
 
 ## Scene Survey
 
 Hazards  
-History/bystanders -> D-spine  
+History/bystanders ➡ D-spine?
 
 PPE
 
@@ -35,6 +35,7 @@ Rapid body survey? (e.g., big picture, anything else wrong?)
 ### Shock Treatment
 **W**armth  
 [**O**xygen admin](/Lifeguarding/oxygen-administration/)  
+**P**osition & comfort  
 **R**est and reassurance   
 
 ## Secondary Survey

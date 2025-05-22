@@ -13,6 +13,7 @@ extra_css:
 # Custom variables
 extra:
   homepage: https://lifeguard.guide
+  
 
 # Navigation
 nav:
@@ -20,6 +21,7 @@ nav:
   - 🛟 Lifeguarding:
     - lifeguarding/index.md
     - Priority Action Approach:
+      - lifeguarding/priority-action-approach/index.md
       - At a Glance: lifeguarding/priority-action-approach/at-a-glance.md
       - Scene Survey: lifeguarding/priority-action-approach/scene-survey.md
       - Primary Survey: lifeguarding/priority-action-approach/primary-survey.md
@@ -46,6 +48,8 @@ theme:
     - navigation.expand
     - navigation.instant.prefetch
     - navigation.instant.progress
+    - navigation.indexes
+    #- navigation.sections
     - navigation.tabs
     - navigation.tracking
     - navigation.path

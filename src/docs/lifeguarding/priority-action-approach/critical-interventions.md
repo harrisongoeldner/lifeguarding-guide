@@ -20,6 +20,8 @@ If they experience the following 72hrs after incident see a doctor:
 
 ### Redirection / follow up
 
+---
+
 ## Anaphylaxis 
 Epinephrine- patent expired meaning many brands  
 Now called auto injectors 
@@ -33,6 +35,8 @@ Call 911
 
 2nd dose - 5 minutes 
 
+--- 
+
 ## Non traumatic chest pain
 Asa does not have to be theirs  
 Allergic or advised against  
@@ -43,11 +47,15 @@ Prescription- ownership
 Sexual enhancement 48 hrs  
 No more than 3 doses in 10 min
 
+--- 
+
 ## CPR Complications
 
 Breaths not going in - obstructed airway, fluid, mask not sealed properly , gastric distrecitaton - open airway more or smaller breaths
 
 Water in airway - two rescue breaths before compressions; if able give while in water. 
+
+---
 
 ## Sprains and strains
 - just immobilize - wrapping
@@ -67,6 +75,8 @@ Fractures, breaks, dislocation
 
 How to differentiate strain from break: ability to bear weight
 
+--- 
+
 ## Burns
 
 Superficial or partial (1st and 2nd degree don’t call 911)  
@@ -78,6 +88,8 @@ If wet, flush with water.
 If dry, brush and then flush. 
 
 Electrical - entry and exit points -> always call 911
+
+--- 
 
 ## Deadly bleeds
 
