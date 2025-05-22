@@ -20,6 +20,8 @@ nav:
   - Home: index.md
   - 🛟 Lifeguarding:
     - lifeguarding/index.md
+    - Prevention: lifeguarding/prevention.md
+    - Scanning: lifeguarding/scanning.md
     - Priority Action Approach:
       - lifeguarding/priority-action-approach/index.md
       - At a Glance: lifeguarding/priority-action-approach/at-a-glance.md
