@@ -1,4 +1,4 @@
-# Critical Interventions
+# Critical Interventions Cheat Sheet
 
 ## Drowning care
 ### Assessment
