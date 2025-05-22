@@ -4,9 +4,9 @@ The Priority Action Approach (PAA) is a systematic method to dealing with variou
 
 There are three essential sections:
 
-1. Scene Survey
-2. Primary Survey
-3. Secondary Survey
+1. [Scene Survey](scene-survey)
+2. [Primary Survey](primary-survey)
+3. [Secondary Survey](secondary-survey)
 
 It is essential that you **memorize** the steps outlined in [at a glance](at-a-glance). You should be able to confidently say each step in order. This is essential for your success as a lifeguard.
 
