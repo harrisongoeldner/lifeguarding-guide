@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+  - footer
 ---
 
 # A collection of guides for lifeguarding and teaching swimming
