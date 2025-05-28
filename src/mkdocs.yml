@@ -47,6 +47,7 @@ theme:
   favicon: assets/images/favicon.png
   features:
     - navigation.instant
+    - navigation.footer
     - navigation.expand
     - navigation.instant.prefetch
     - navigation.instant.progress
