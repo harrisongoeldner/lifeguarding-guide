@@ -20,22 +20,24 @@ Identify hazards you can see visually as you approach. In a lifeguarding context
 
 Your next step is determining the history of what happened to cause the first aid incident:
 
-* 👋 If the victim is **conscience** this could be as simple asking the questions *"what's wrong and how did this happen?"*  
-* 😵 If they are **unconscience** this could ask a bystander *"hey did you see what happened?"*
+* 👋 If the victim is **conscious** this could be as simple asking the questions *"what's wrong and how did this happen?"*  
+* 😵 If they are **unconscious** this could ask a bystander *"hey did you see what happened?"*
 
 If the mechanism of injury could indicate a spinal, follow up with does your neck hurt? Do you feel any tingling? If the mechanism is severe and they have any symptoms of a spinal proceed with the appropriate spinal procedure. Remember that if you don't know the mechanism of injury it is better to be safe than sorry.
 
-*Example 1:* Timmy is unconscience in the deep end by the diving boards. You didn't see what happened.
+*Example 1:* Timmy is unconscious in the deep end by the diving boards. You didn't see what happened.
 
 *Response:* You don't know what happened but there is a possibility that he injured his spine. Therefore you are going to flatboard him as a precaution.
 
-*Example 2:* Timmy is unconscience in the deep end by the diving boards. You saw him practicing holding his breath 5 seconds before.
+*Example 2:* Timmy is unconscious in the deep end by the diving boards. You saw him practicing holding his breath 5 seconds before.
 
 *Response:* It would be reasonable to assume he just passed out. Therefore spinal protocol is not necessary.
 
-*Example 3:* Timmy was sitting in the hot tub. You find him unconscience.
+*Example 3:* Timmy was sitting in the hot tub. You find him unconscious.
 
 *Response:* This would be at your discretion. If you suspect he hit his neck than it could be a spinal. However the likely culprit if sitting in the hot tub is he passed out. 
+
+**‼️ Remember** if a person is conscious you need to have their permission to treat them. You automatically have implied consent if they go unconscious, even if they previously refused treatment.
 
 ---
 

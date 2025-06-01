@@ -8,12 +8,6 @@ The primary survey is the **initial assessment** of the victim and **response** 
 
 The level of consciousness (LOC) is the first item you assess in the primary survey. There are four levels of consciousness **alert**, responds to **verbal** stimulus, responds to **pain** stimulus, and **unconscious** (non-responsive).
 
-LOC  
-– Alert?  
-– Verbal?  
-– Pain?  
-– Unconscious?  
-
 ---
 
 ### **Step 2 ➡ ABCs**
