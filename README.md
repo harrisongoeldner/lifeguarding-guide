@@ -25,3 +25,6 @@ mkdocs serve --config-file src/mkdocs.yml
 ```
 Make the intended edits and then merge back to `main` as a PR. 
 
+## Hosting Provider
+
+Currently the site is hosted using Github Pages. However the long term plan is to move to Cloudflare Pages as it has better AI scrapping protections.
