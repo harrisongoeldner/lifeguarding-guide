@@ -20,3 +20,7 @@ enableGitInfo = true
   BookLastChangeLink = '{{ .Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}'
   BookEditLink = '{{ .Site.Params.BookRepo }}/edit/main/src/{{ .Path }}'
   BookSearch = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
