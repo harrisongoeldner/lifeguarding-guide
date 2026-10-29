@@ -22,7 +22,9 @@ It is essential that you **memorize** the steps outlined in [at a glance](at-a-g
 
 The issue that most new guards face is that not all scenarios fit the PAA. The way the PAA is outlined does not include the additional steps and modifications for an **aquatics** environment.
 
+{{% hint warning %}}
 ‼️ It is important to realize the the **PAA is a tool**, not step-by-step approach for every scenario.
+{{% /hint %}}
 
 **There are a couple ways that the PAA is commonly modified.**
 

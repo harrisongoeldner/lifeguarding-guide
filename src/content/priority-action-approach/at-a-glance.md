@@ -39,7 +39,7 @@ Rapid body survey? (e.g., big picture, anything else wrong?)
 
 ### Shock Treatment
 **W**armth  
-[**O**xygen admin](/Lifeguarding/oxygen-administration/)  
+[**O**xygen admin](/first-aid/oxygen-administration/)  
 **P**osition & comfort  
 **R**est and reassurance   
 

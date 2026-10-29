@@ -9,7 +9,12 @@ enableGitInfo = true
 [markup.goldmark.renderer]
   unsafe = true
 
+[services.googleAnalytics]
+  id = 'G-XHFKQPTTWK'
+
+
 [params]
+  BookLogo = 'logo.png'
   BookSection = '/'
   BookRepo = 'https://github.com/harrisongoeldner/lifeguarding-guide/'
   BookLastChangeLink = '{{ .Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}'

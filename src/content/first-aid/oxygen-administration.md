@@ -1,3 +1,8 @@
+---
+title: Oxygen Administration
+weight: 10
+---
+
 # Oxygen Administration
 
 **95%** and above is **A+** meaning no oxygen needed

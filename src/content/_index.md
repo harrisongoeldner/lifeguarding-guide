@@ -1,10 +1,11 @@
 ---
 layout: landing
+description: "Think of this guide as your handy cheatsheet. It covers the priority action approaching, lifeguarding principles, and first aid treatment"
 ---
 
 <br>
-
-# 🛟 Harrison's Guide to Lifeguarding! {anchor=false}
+    
+# <img src="/logo.png" alt="" class="home-logo"> Harrison's Guide to Lifeguarding! {anchor=false}
 
 A collection of guides on lifeguarding principles, and how to apply them.
 

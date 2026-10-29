@@ -31,7 +31,7 @@ The primary survey is the **initial assessment** of the victim and **response** 
   
 4. ### **Shock Treatment**
    **W**armth  
-   [**O**xygen admin](/Lifeguarding/oxygen-administration/)  
+   [**O**xygen admin](/first-aid/oxygen-administration/)  
    **P**osition & comfort  
    **R**est and reassurance  
 

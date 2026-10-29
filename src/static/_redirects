@@ -1,0 +1,25 @@
+# Old mkdocs URLs -> new Hugo URLs
+# Each URL is listed with and without a trailing slash.
+
+/lifeguarding                                                  /basics/introduction/                              301
+/lifeguarding/                                                 /basics/introduction/                              301
+/lifeguarding/prevention                                       /basics/prevention/                                301
+/lifeguarding/prevention/                                      /basics/prevention/                                301
+/lifeguarding/scanning                                         /basics/scanning/                                  301
+/lifeguarding/scanning/                                        /basics/scanning/                                  301
+/lifeguarding/oxygen-administration                            /first-aid/oxygen-administration/                  301
+/lifeguarding/oxygen-administration/                           /first-aid/oxygen-administration/                  301
+/lifeguarding/drowning-care                                    /first-aid/drowning-care/                          301
+/lifeguarding/drowning-care/                                   /first-aid/drowning-care/                          301
+/lifeguarding/priority-action-approach                         /priority-action-approach/                         301
+/lifeguarding/priority-action-approach/                        /priority-action-approach/                         301
+/lifeguarding/priority-action-approach/at-a-glance             /priority-action-approach/at-a-glance/             301
+/lifeguarding/priority-action-approach/at-a-glance/            /priority-action-approach/at-a-glance/             301
+/lifeguarding/priority-action-approach/scene-survey            /priority-action-approach/scene-survey/            301
+/lifeguarding/priority-action-approach/scene-survey/           /priority-action-approach/scene-survey/            301
+/lifeguarding/priority-action-approach/primary-survey          /priority-action-approach/primary-survey/          301
+/lifeguarding/priority-action-approach/primary-survey/         /priority-action-approach/primary-survey/          301
+/lifeguarding/priority-action-approach/secondary-survey        /priority-action-approach/secondary-survey/        301
+/lifeguarding/priority-action-approach/secondary-survey/       /priority-action-approach/secondary-survey/        301
+/lifeguarding/priority-action-approach/critical-interventions  /priority-action-approach/critical-interventions/  301
+/lifeguarding/priority-action-approach/critical-interventions/ /priority-action-approach/critical-interventions/  301
