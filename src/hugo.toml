@@ -1,0 +1,17 @@
+baseURL = 'https://lifeguard.guide/'
+locale = 'en-us'
+title = "Harrison's Guide to Lifeguarding"
+theme = 'hugo-book'
+copyright = '© 2026 Harrison Goeldner'
+enableGitInfo = true
+
+# Required for mermaid and katex shortcodes
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  BookSection = '/'
+  BookRepo = 'https://github.com/harrisongoeldner/lifeguarding-guide/'
+  BookLastChangeLink = '{{ .Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}'
+  BookEditLink = '{{ .Site.Params.BookRepo }}/edit/main/src/{{ .Path }}'
+  BookSearch = true

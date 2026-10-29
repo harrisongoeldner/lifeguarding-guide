@@ -2,3 +2,11 @@
 /poetry.lock
 .cache/
 /.python-version
+
+# Hugo build output
+src/public/
+src/resources/_gen/
+.hugo_build.lock
+
+# macOS
+.DS_Store

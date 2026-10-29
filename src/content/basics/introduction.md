@@ -1,3 +1,8 @@
+---
+title: Introduction
+weight: 10
+---
+
 # Introduction
 
 Lifeguarding is a both a rewarding and stressful job. You will be dealing with high stakes situations and need to be able to react and make decisions without hesitation. Luckily for you the lifesaving society has estabilished a set of guidelines and principles for you to follow. 
@@ -24,4 +29,4 @@ The key term to remember is *priority action approach*. You deal with the most s
 
 ### Remember 911 is Your Best Friend
 
-Something a lot of new guards get caught up over is whether to call EMS. 
+Something a lot of new guards get caught up over is whether to call EMS.

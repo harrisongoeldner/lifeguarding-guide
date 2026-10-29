@@ -1,3 +1,8 @@
+---
+title: Scene Survey
+weight: 20
+---
+
 # Scene Survey
 
 The scene survey is your initial assessment of the situation. You are trying to figure out **how** did this happen and are there any **hazards** to my person.
@@ -10,13 +15,13 @@ Recall the three steps of the scene survey are:
 
 ---
 
-### **Step 1 ➡ Hazards**
+### **Step 1 ⮕ Hazards**
 
 Identify hazards you can see visually as you approach. In a lifeguarding context of a pool this is more of a controlled environment so you likely know the hazards. However there could be some unknowns: do you see needles, exposed electrical equipment, etc. These hazards can also inform you on your response and treatment of the victim.
 
 ---
 
-### **Step 2 ➡ History**
+### **Step 2 ⮕ History**
 
 Your next step is determining the history of what happened to cause the first aid incident:
 
@@ -41,8 +46,8 @@ If the mechanism of injury could indicate a spinal, follow up with does your nec
 
 ---
 
-### **Step 3 ➡ PPE**
+### **Step 3 ⮕ PPE**
 
 ‼️ Put on your **personal protective equipment** (PPE)! Do **NOT** forget this step!
 
-This is most commonly putting on gloves. Remember that you cannot do your job effectively if you get a disease or injured from a first aid. 
+This is most commonly putting on gloves. Remember that you cannot do your job effectively if you get a disease or injured from a first aid.

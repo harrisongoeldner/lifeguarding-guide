@@ -1,3 +1,8 @@
+---
+title: At a Glance
+weight: 10
+---
+
 # At a Glance
 
 ‼️ **Remember** ➡ Priority action approach 

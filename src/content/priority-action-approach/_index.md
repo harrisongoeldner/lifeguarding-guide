@@ -1,3 +1,11 @@
+---
+title: Priority Action Approach
+weight: 20
+params:
+  bookFlatSection: true
+  #bookIcon: rocket
+---
+
 # Priority Action Approach
 
 The Priority Action Approach (PAA) is a systematic method to dealing with various first aid related incidents. At its core, it is a methodology to ensure you deal with issues in order of their *severity*. In addition it ensures you don't miss a vital step that could save someone's life. 
@@ -36,4 +44,4 @@ Most facilities have separate forms for minors and majors. Minor injuries are of
 
 #### **3. Pulling Questions from the Secondary Survey into the Primary**
 
-Often in majors you are going to pull relevant questions from the secondary survey and ask them in the primary survey. For instance if someone has chest pain, I am going to ask them if they have a history of chest pain as a follow up question. I am not going to wait until the secondary survey. Think of yourself as a detective. 
+Often in majors you are going to pull relevant questions from the secondary survey and ask them in the primary survey. For instance if someone has chest pain, I am going to ask them if they have a history of chest pain as a follow up question. I am not going to wait until the secondary survey. Think of yourself as a detective.

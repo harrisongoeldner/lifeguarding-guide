@@ -1,0 +1,9 @@
+.book-layout-landing .book-page {
+  max-width: 50rem;
+  margin-inline: auto;
+}
+
+.markdown ul li,
+.markdown ol li {
+  margin-bottom: 0;
+}

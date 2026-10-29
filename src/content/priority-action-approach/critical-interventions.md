@@ -1,3 +1,8 @@
+---
+title: Critical Interventions
+weight: 50
+---
+
 # Critical Interventions Cheat Sheet
 
 ## Drowning care
